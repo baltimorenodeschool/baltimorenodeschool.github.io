@@ -1,4 +1,4 @@
 baltimorenodeschool.github.io
 =============================
 
-Main website repo, also used for planning events and discussions
+Repo now at http://github.com/nodeschool/baltimore
